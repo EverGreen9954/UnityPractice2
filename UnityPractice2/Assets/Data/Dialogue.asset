@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5c820ae396935541b941d0eeb15bcb1, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Data/Data.xlsx
+  WorksheetName: Dialogue
+  dataArray:
+  - id: 1
+    bg: BG_01
+    character: 10101
+    position: 5
+    dialogue: "\"\uC774 \uB9DD\uD560 \uBA54\uC774\uB4DC\uAC00 \uC790\uAFB8 \uB9D0\uB300\uB2F5\uC744
+      \uD558\uB124?\""
+  - id: 2
+    bg: BG_02
+    character: 10201
+    position: 5
+    dialogue: "\"\uC8C4\uC1A1\uD569\uB2C8\uB2E4\uB9CC, \uB4A4\uC9C0\uACE0 \uC2F6\uC73C\uC2ED\uB2C8\uAE4C?\""
+  - id: 3
+    bg: BG_03
+    character: 10101
+    position: 5
+    dialogue: "\"\uD558\u2026\uC5B4\uB5BB\uAC8C \uC774\uB7F0 \uBA54\uC774\uB4DC\uB97C
+      \uCC44\uC6A9\uD55C\uAC78\uAE4C\""
+  - id: 4
+    bg: BG_02
+    character: 10101
+    position: 5
+    dialogue: "\"\uB108 \uAC19\uC740 \uAC74 \uB5B1\uBC30\uB85C \uB450\uB3D9\uAC15
+      \uB0B4\uC57C\uD558\uB294\uB370\u2026\""
+  - id: 5
+    bg: BG_01
+    character: 10201
+    position: 5
+    dialogue: "\"\uC5B4\uB514 \uD55C \uBC88 \uADF8\uB798\uBCF4\uC2DC\uC8E0?\""
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 
+  - id: 0
+    bg: 
+    character: 0
+    position: 0
+    dialogue: 

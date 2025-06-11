@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caa79f4f670460043a33c7e3fc1fe880, type: 3}
+  m_Name: Character
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Data/Data.xlsx
+  WorksheetName: Character
+  dataArray:
+  - id: 10101
+    name: "\uB958 \uB355"
+    title: "\uC8FC\uC778"
+    image: Yaduck_01
+    description: "\uB958\uB355_\uAE30\uBCF8\uD45C\uC815"
+  - id: 10201
+    name: "\uB9C8\uB9AC\uC5D4"
+    title: "\uBA54\uC774\uB4DC"
+    image: marien_02
+    description: "\uB9C8\uB9AC\uC5D4_\uAE30\uBCF8\uD45C\uC815"
+  - id: 10202
+    name: "\uB9C8\uB9AC\uC5D4"
+    title: "\uBA54\uC774\uB4DC"
+    image: marien_03
+    description: "\uB9C8\uB9AC\uC5D4_\uC6C3\uB294\uD45C\uC815"
+  - id: 10203
+    name: "\uB9C8\uB9AC\uC5D4"
+    title: "\uBA54\uC774\uB4DC"
+    image: marien_04
+    description: "\uB9C8\uB9AC\uC5D4 _\uB180\uB780\uD45C\uC815"
+  - id: 10204
+    name: "\uB9C8\uB9AC\uC5D4"
+    title: "\uBA54\uC774\uB4DC"
+    image: marien_05
+    description: "\uB9C8\uB9AC\uC5D4_\uC2AC\uD508\uD45C\uC815"
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
+  - id: 0
+    name: 
+    title: 
+    image: 
+    description: 
